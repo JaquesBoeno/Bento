@@ -27,6 +27,7 @@ const CONFIG = {
   weatherUnit: 'C',
   weatherLatitude: '37.774929',
   weatherLongitude: '-122.419418',
+  language: 'en',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
